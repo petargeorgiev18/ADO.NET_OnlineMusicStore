@@ -1,0 +1,14 @@
+C:\Users\Student3\Desktop\ADO.NET_OnlineMusicStore\OnlineMusicStore\bin\Debug\net8.0\OnlineMusicStore.exe
+C:\Users\Student3\Desktop\ADO.NET_OnlineMusicStore\OnlineMusicStore\bin\Debug\net8.0\OnlineMusicStore.deps.json
+C:\Users\Student3\Desktop\ADO.NET_OnlineMusicStore\OnlineMusicStore\bin\Debug\net8.0\OnlineMusicStore.runtimeconfig.json
+C:\Users\Student3\Desktop\ADO.NET_OnlineMusicStore\OnlineMusicStore\bin\Debug\net8.0\OnlineMusicStore.dll
+C:\Users\Student3\Desktop\ADO.NET_OnlineMusicStore\OnlineMusicStore\bin\Debug\net8.0\OnlineMusicStore.pdb
+C:\Users\Student3\Desktop\ADO.NET_OnlineMusicStore\OnlineMusicStore\obj\Debug\net8.0\OnlineMusicStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student3\Desktop\ADO.NET_OnlineMusicStore\OnlineMusicStore\obj\Debug\net8.0\OnlineMusicStore.AssemblyInfoInputs.cache
+C:\Users\Student3\Desktop\ADO.NET_OnlineMusicStore\OnlineMusicStore\obj\Debug\net8.0\OnlineMusicStore.AssemblyInfo.cs
+C:\Users\Student3\Desktop\ADO.NET_OnlineMusicStore\OnlineMusicStore\obj\Debug\net8.0\OnlineMusicStore.csproj.CoreCompileInputs.cache
+C:\Users\Student3\Desktop\ADO.NET_OnlineMusicStore\OnlineMusicStore\obj\Debug\net8.0\OnlineMusicStore.dll
+C:\Users\Student3\Desktop\ADO.NET_OnlineMusicStore\OnlineMusicStore\obj\Debug\net8.0\refint\OnlineMusicStore.dll
+C:\Users\Student3\Desktop\ADO.NET_OnlineMusicStore\OnlineMusicStore\obj\Debug\net8.0\OnlineMusicStore.pdb
+C:\Users\Student3\Desktop\ADO.NET_OnlineMusicStore\OnlineMusicStore\obj\Debug\net8.0\OnlineMusicStore.genruntimeconfig.cache
+C:\Users\Student3\Desktop\ADO.NET_OnlineMusicStore\OnlineMusicStore\obj\Debug\net8.0\ref\OnlineMusicStore.dll
