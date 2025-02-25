@@ -325,7 +325,7 @@ namespace OnlineMusicStore
                     while (reader.Read())
                     {
                         Console.WriteLine($"Поръчка ID: {reader["OrderID"]}," +
-                            $" Инструмент ID: {reader["InstrumentID"]}, Количество: {reader["Quantity"]}");
+                            $" Инструмент ID: {reader["InstrumentID"]}");
                     }
                 }
             }
